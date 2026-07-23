@@ -27,7 +27,7 @@ body {
 
 .hero {
   background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.1)),
-    url("../img/pexels-sound-on-3760944.png") center -50px no-repeat;
+    url("../img/pexels-sound-on-3760944.webp") center -50px no-repeat;
   max-width: 100vw;
   height: 100vh;
 }
